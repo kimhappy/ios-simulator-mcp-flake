@@ -1,0 +1,28 @@
+{
+  "nodes": {
+    "ios-simulator-mcp": {
+      "flake": false,
+      "locked": {
+        "lastModified": 1786639058,
+        "narHash": "sha256-amkrW4zTDeF0qFLvKc6odDb+wH+pxijO0XQCCF/d/0c=",
+        "owner": "joshuayoes",
+        "repo": "ios-simulator-mcp",
+        "rev": "a32f7f836393424d83b9476928da5518e178daa9",
+        "type": "github"
+      },
+      "original": {
+        "owner": "joshuayoes",
+        "ref": "v2.1.0",
+        "repo": "ios-simulator-mcp",
+        "type": "github"
+      }
+    },
+    "root": {
+      "inputs": {
+        "ios-simulator-mcp": "ios-simulator-mcp"
+      }
+    }
+  },
+  "root": "root",
+  "version": 7
+}
